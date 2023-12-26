@@ -5,6 +5,8 @@
 
 Used Natural Language Processing pipeline with Machine Learning algorithms for implementation of this project
 
+Dataset used is taken from Kaggle
+
 Steps are :
 1. Importing libraries and uploading the dataset
 2. Checking for null and useless variables and its correction
